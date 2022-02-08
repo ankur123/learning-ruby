@@ -1,6 +1,6 @@
 # README
 
-This README documents steps necessary to get the application up and running.
+This README documents steps necessary follow the ruby on rails [guide](http://asdf-vm.com/guide/getting-started.html#_3-install-asdf). It allows you to have a local version of all neceassary libs.
 
 * asdf: 
 ASDF allows you to install binaries the way you like. You should never need to 'sudo'. Install asdf from https://github.com/asdf-vm/asdf. Use homebrew  and zshrc and make sure you add
