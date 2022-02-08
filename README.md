@@ -3,7 +3,7 @@
 This README documents steps necessary to get the application up and running.
 
 * asdf: 
-ASDF allows you to install binaries the way you like. You should never need to 'sudo'. Install asdf from https://github.com/asdf-vm/asdf. Use homebrew and make sure you add
+ASDF allows you to install binaries the way you like. You should never need to 'sudo'. Install asdf from https://github.com/asdf-vm/asdf. Use homebrew  and zshrc and make sure you add
 ```
 echo -e "\n. $(brew --prefix asdf)/libexec/asdf.sh" >> ${ZDOTDIR:-~}/.zshrc
 ```
@@ -13,10 +13,7 @@ to your .zshrc
 ➜  ~/Documents/work/ruby-on-rails/blog git:(main) ✗ asdf
 version: v0.9.0
 ```
-
-* Shell used zshrc
    
-
 * Ruby version
 ```
 ➜  ~/Documents/work/ruby-on-rails/blog git:(main) ✗ ruby -v
